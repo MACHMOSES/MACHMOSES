@@ -1,5 +1,6 @@
 # MOSES MACHARIA
 ### Hi there 👋
+am currenntly running MERN
 
 <!--
 **MACHMOSES/MACHMOSES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
