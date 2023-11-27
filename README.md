@@ -1,15 +1,16 @@
 # MOSES MACHARIA WANGUI
 
 ## ABOUT ME 
-I am a graduate of Bachelor of Science in Community Development from Laikipia University. I also have knowledge on data analysis and project management.
-Currenntly running MERN
+### I am a graduate of Bachelor of Science in Community Development from Laikipia University. I also have knowledge on data analysis and project management.
+### Currenntly learning MERN
 ## SkILLS
-Data analysis
-Fullstack MERN developer
+### Data analysis
+### Fullstack MERN developer
 ## Favorite Programming languages
+###Javascript
 ## Languages I can speak
-English
-Kiswahili
+###English
+###Kiswahili
 ## How to reach me
 personal email; machariamoses39@gmail.com 
 
