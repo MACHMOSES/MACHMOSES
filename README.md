@@ -1,6 +1,17 @@
-# MOSES MACHARIA
-### Hi there 👋
-am currenntly running MERN
+# MOSES MACHARIA WANGUI
+
+## ABOUT ME 
+I am a graduate of Bachelor of Science in Community Development from Laikipia University. I also have knowledge on data analysis and project management.
+Currenntly running MERN
+## SkILLS
+Data analysis
+Fullstack MERN developer
+## Favorite Programming languages
+## Languages I can speak
+English
+Kiswahili
+## How to reach me
+personal email; machariamoses39@gmail.com 
 
 <!--
 **MACHMOSES/MACHMOSES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
