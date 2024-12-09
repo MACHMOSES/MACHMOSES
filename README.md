@@ -5,11 +5,16 @@
 
 ## SkILLS
 
-###•	Frontend Development: HTML, CSS, JavaScript, React.js, Angular, vue Responsive Web Design
+###•	Frontend Development: HTML, CSS, JavaScript, React.js, Angular, vue, SEO Responsive Web Design
+
 ###•	Web Development: Node.js, Express.js, REST APIs, Git
+
 ###•	UI/UX Optimization: User Interface Design, Cross-Browser Compatibility, Performance Optimization
+
 ###•	Software Development: Agile Methodologies, Version Control (Git), Testing and Debugging
+
 ###•	Backend Development: Basic knowledge of MongoDB, Express.js, Python Django, php laravel.
+
 ###•	Tools & Technologies: GitHub, SPSS, STATA, Project Management
 
 ## Favorite Programming languages
