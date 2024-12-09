@@ -1,13 +1,21 @@
 # MOSES MACHARIA WANGUI
 
 ## ABOUT ME 
-### I am a graduate of Bachelor of Science in Community Development from Laikipia University. I also have knowledge on data analysis and project management.
-### Currenntly learning MERN
+### Passionate Frontend Developer with over two years of experience creating responsive and dynamic web applications. Proficient in React.js and other modern web development frameworks, with a strong background in software development and UI/UX optimization. Adept at collaborating with cross-functional teams to deliver seamless user experiences. Eager to contribute to innovative solutions at your company, enhancing digital tools for Africa's payment ecosystem.
+
 ## SkILLS
-### Data analysis
-### Fullstack MERN developer
+
+###•	Frontend Development: HTML, CSS, JavaScript, React.js, Angular, vue Responsive Web Design
+###•	Web Development: Node.js, Express.js, REST APIs, Git
+###•	UI/UX Optimization: User Interface Design, Cross-Browser Compatibility, Performance Optimization
+###•	Software Development: Agile Methodologies, Version Control (Git), Testing and Debugging
+###•	Backend Development: Basic knowledge of MongoDB, Express.js, Python Django, php laravel.
+###•	Tools & Technologies: GitHub, SPSS, STATA, Project Management
+
 ## Favorite Programming languages
 ### Javascript
+### Python 
+### PHP
 ## Languages I can speak
 ### English
 ### Kiswahili
